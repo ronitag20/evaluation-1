@@ -1,2 +1,3 @@
 # evaluation-1
-An empty repository to demonstrate the GitHub flow and send PRs to.
+added coins and after collecting each coin player gets a score of 1 which is displayed at top left corner on the screen
+Name- Ronit Agarwal
